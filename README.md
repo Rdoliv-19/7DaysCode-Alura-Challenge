@@ -4,5 +4,5 @@
 
 
 ## Desafios<br>
-✔ Dia 01 : Operadores de igualdade
+✔ Dia 01 : Operadores de igualdade<br>
 ✔ Dia 02 : Captura do prompt para exibir na tela
