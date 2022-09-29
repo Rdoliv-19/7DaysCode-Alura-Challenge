@@ -19,8 +19,8 @@ if(especializacao == 1){
 
 let novatecnologia = prompt("Tem mais alguma tecnologia que você gostaria de aprender? Digite 'ok' em caso positivo.")
 while (novatecnologia === "ok"){
-    let perntaTecnologia = prompt("qual ?")
-    alert(`${perntaTecnologia} é excelente`)
+    let perguntaTecnologia = prompt("qual ?")
+    alert(`${perguntaTecnologia} é excelente`)
     novatecnologia = prompt("Tem mais alguma tecnologia que você gostaria de aprender? Digite 'ok' em caso positivo.")
 }
   
