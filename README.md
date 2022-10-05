@@ -9,4 +9,5 @@
 ✔ Dia 03 : Fluxo de decisão com estruturas de repetição<br>
 ✔ Dia 04 : Loops e randomização<br>
 ✔ Dia 05 : Fluxo de decisão e listas<br>
+✔ Dia 06 : Remover itens do Array<br>
  
